@@ -50,15 +50,11 @@ studies:
       pellentesque eu, pretium quis, sem."
 
 experiences:
-    title: Experiences
-    intro: Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    experience:
-      - role: Student intern
-      - time: Mar 2006 - Dec 2006
-      - company: DaimlerChrysler
-      - details: lorem ipsum
+    - experience:
+      role: Student intern
+      time: Mar 2006 - Dec 2006
+      company: DaimlerChrysler
+      details: lorem ipsum
 
 # projects:
 #     title: Projects
