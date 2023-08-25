@@ -1,0 +1,193 @@
+
+career-profile:
+  title: Career Profile
+  summary: |    
+    Innovative software engineer with a diverse background spanning over a decade of hands-on experience in the technology sector. Leveraging a solid foundation in IT-Systems Engineering and a deep-rooted passion for crafting exceptional user experiences, I have consistently excelled in roles across frontend and backend development, mobile application engineering, and technical leadership.
+  
+    My journey began as a B.Sc. and M.Sc. graduate from the University of Potsdam, where I honed my skills in Systems Architecture, Human-Computer Interaction, and Internet Technologies. Since then, I have orchestrated groundbreaking projects, including spearheading the development of a pioneering cross-platform React Native application for enhancing caregiver proficiency. My expertise in mobile development has been showcased through innovative solutions like in-app video editing, concurrent video uploads, and seamless payment integrations. As a hands-on engineer, I have also delved into backend systems, managing complex data processing pipelines and collaborating with scientific communities to optimize genetic data analysis.
+  
+    Beyond code, I have taken on leadership roles, serving as an Interim CTO for a dynamic startup and leading teams to enhance digital banking experiences. My passion for technological excellence has been complemented by my commitment to nurturing development teams, implementing automation strategies, and introducing groundbreaking features that elevate user engagement. With a track record of driving innovation, fostering collaboration, and achieving technical milestones, I am poised to deliver impactful solutions in any software engineering endeavor.
+
+education:
+  title: Education
+  info:
+    - degree: B.Sc. Psychology
+      university: Fernuniversität Hagen
+      time: 2018 - 2022
+      details: |
+        Specialization in Work and Organizational Psychology, Bachelor's Thesis: Influencer Entrepreneurship: The Role of the Power Motive
+    - degree: M.Sc. IT-Systems Engineering
+      university: University of Potsdam / Hasso Plattner Institute
+      time: 2007 - 2010
+      details: |
+        Specialization in Systems Architecture, Human Computer Interaction, Computer Graphics, Master's Thesis: Out-of-Core Rendering of remote 3D Virtual Environments on Mobile Devices.
+    - degree: B.Sc. IT-Systems Engineering
+      university: University of Potsdam / Hasso Plattner Institute
+      time: 2005 - 2007
+      details: |
+        Specialization in Internet and WWW Technologies, Human Computer Interfaces, Bachelor's Project: Sophie Server - The Future of Reading: Design and Implementation of Online Portal for Multimedia Books.                
+
+experiences:
+  title: Experiences
+  info:
+    - role: Head of Frontend Engineering
+      time: May 2022 - Present
+      company: FFW Germany GmbH, Hamburg, Germany
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Full Stack Engineer
+      time: Feb 2021 - Apr 2022
+      company: LifeBonus, Hamburg, Germany
+      details: |
+        As a dedicated Full Stack Software Engineer at LifeBonus, I had the privilege of being part of a dynamic team 
+        that developed a cutting-edge cross-platform React Native application aimed at enhancing the proficiency of 
+        professional caregivers in safe and proper patient movement. My role encompassed a spectrum of 
+        responsibilities that allowed me to make a significant impact and drive remarkable achievements. 
+        
+        One of the standout accomplishments during my tenure was spearheading the integration of a robust video 
+        uploading feature within the application. This feature served as a pivotal tool for the AI department, 
+        enabling them to gather essential sample data crucial for training neural networks. 
+        
+        I also had the distinct honor of contributing extensively to user research efforts, enabling the acquisition of crucial data that 
+        facilitated the optimization of user engagement and retention strategies. 
+        
+        In addition, I played a pivotal role in a comprehensive design and user experience overhaul. Drawing from my mobile development expertise, 
+        I championed a radical revamp of the onboarding process. Through meticulous design and strategic development, 
+        we successfully simplified and enhanced the user onboarding journey, making it more intuitive and seamless. 
+        
+        My commitment to excellence extended beyond development tasks. I provided instrumental guidance to the management team in effectively positioning and monetizing the product 
+        within the market. By leveraging cloud-native solutions through AWS, including Amplify, S3, Cognito, and 
+        DynamoDB I helped to ensure the scalability, security, and performance of our application.
+    - role: Senior Mobile Application Engineer (Freelance)
+      time: Apr 2012 - Jul 2014
+      company: Hanseatic Bank GmbH & Co KG, Hamburg, Germany
+      details: |
+        As a dedicated freelance Mobile Application Engineer at Hanseatic Bank, I embarked on an exciting journey to 
+        shape the future of digital banking experiences. Collaborating closely with a skilled counterpart, 
+        I had the privilege of spearheading the creation of the credit card self-service app from the ground up, 
+        leveraging cutting-edge technologies to achieve remarkable results.
+        
+        Utilizing React Native as our foundation, combined with the power of TypeScript and Storybook, we architected 
+        a robust and user-friendly mobile app available on both iOS and Android platforms.
+        
+        One of the pivotal highlights of my tenure was the successful integration of Apple Pay and Google Pay into the 
+        application. In a landscape where innovation was paramount, I ensured that Hanseatic Bank customers enjoyed 
+        the convenience of seamless mobile payments through these prominent providers. 
+        This achievement set us ahead of the curve, as other institutions were still grappling with the complexities 
+        of this integration.
+        
+        I took a proactive role in ensuring the app's longevity and seamless transition beyond my tenure. 
+        With a strategic focus on sustainable development practices, I successfully onboarded and nurtured a 
+        proficient development team. This initiative ensured the app's ongoing maintenance and evolution.
+        
+        Key Achievements:
+          - Led the end-to-end development of the credit card self-service app using React Native, TypeScript, and Storybook for iOS and Android platforms.
+          - Pioneered the seamless integration of Apple Pay and Google Pay, setting a benchmark for customer-centric mobile payment experiences.
+          - Successfully onboarded and empowered a development team to ensure the app's continuous enhancement and maintenance.
+          - Automated continuous delivery processes, optimizing deployment workflows for efficiency and reliability.
+          - Embraced cutting-edge technologies and practices to ensure codebase maintainability and support for ongoing feature development.
+    - role: Interim Chief Technology Officer
+      time: May 2016 - Dec 2018
+      company: Hamburg Startup, Hamburg, Germany
+      details: |
+        As the Interim Chief Technology Officer at Hamburg Startups, I undertook a pivotal role in transforming the 
+        software product "Hamburg Startup Monitor." This dynamic platform, initially developed by multiple freelancers, 
+        was designed to comprehensively list and foster connections among startups within the Hamburg region.
+        
+        Taking the helm of the entire software ecosystem, I steered the ship of frontend and backend development, 
+        in addition to overseeing infrastructure and server maintenance. A significant milestone I achieved was the 
+        successful implementation of a robust multi-tenancy framework. This innovation enabled the seamless 
+        deployment of analogous products tailored to diverse geographical areas across Germany, 
+        as well as specialized versions like a Startup Monitor focused on empowering female founders.
+        
+        Amidst relentless innovation, I spearheaded the introduction of new features that elevated the user 
+        experience and extended the platform's capabilities. Beyond this, I orchestrated the automation of data 
+        exports for external data analytics service providers, streamlining processes and enhancing data-driven insights.
+        
+        My strategic acumen came to the fore as I advised the company on a pivotal pivot in the product strategy. 
+        This strategic shift was essential to ensure sustained viability and profitability in a dynamic market landscape. 
+        My insights and guidance contributed to the company's ability to navigate challenges effectively and seize 
+        emerging opportunities.
+        
+        My tenure as Interim CTO at HamburgStartups was marked by a passion for technological excellence and a 
+        dedication to driving meaningful outcomes. I relished the opportunity to shape a transformative product and 
+        contribute to the growth of the startup ecosystem.
+    - role: Senior iOS Engineer (Freelance)
+      time: Apr 2016 - Apr 2018
+      company: Group Story Social Media Platform, Hamburg, Germany
+      details: |
+        At “Group Social Media Platform”, I collaborated with another highly skilled iOS developer to transform a 
+        promising prototype into a cutting-edge mobile application. During my tenure, I not only contributed to 
+        numerous redesigns but also pioneered innovative solutions that significantly enhanced the app's functionality 
+        and user experience.
+        
+        Taking over the reins from an external US-based agency, I spearheaded the complete overhaul of the app using 
+        both Objective-C and Swift, ensuring a robust foundation for future development.
+        
+        One of the marquee accomplishments during my time was the implementation of a comprehensive in-app video 
+        editing solution. This solution revolutionized collaborative video editing, enabling groups to collectively 
+        refine and approve videos within the app. The complexity of the task escalated as I developed a sophisticated 
+        mechanism for adding diverse text overlays, encompassing both handwritten and typed text, along with images. 
+        Additionally, the solution seamlessly integrated watermarking, adding a layer of professionalism to the edited videos.
+        
+        To streamline user interactions, I introduced concurrent and resumable video upload functionalities. 
+        These enhancements not only simplified the video sharing process but also fostered an intuitive user experience, 
+        ultimately boosting user engagement.
+        
+        Innovation extended beyond code as I automated the continuous delivery pipeline of the iOS app using pioneering 
+        tools like BuddyBuild. This proactive approach ensured a rapid and reliable distribution of updates to our valued customers,
+        underscoring our commitment to excellence.
+        
+        Throughout my assignment, I steadfastly maintained a dual focus on propelling the app with cutting-edge features 
+        and fortifying its codebase for ongoing adaptability. This balance was essential as the team received a 
+        barrage of feature requests and frequent adjustments from product management, 
+        which I confidently addressed without compromising the application's stability.
+    - role: Staff Software Engineer
+      time: Oct 2014 - Jan 2016
+      company: Complete Genomics Inc., Mountain View, CA, USA
+      details: |
+        During my tenure as a Staff Software Engineer at CompleteGenomics, a distinguished biotech company specializing in Genome Sequencing, I played a pivotal role in driving innovation and efficiency in the field of consumer genetic data analysis.
+        
+        Originally brought on board as an iOS Developer for the self-service genome analysis product, I embraced versatility and transitioned seamlessly into a backend developer role as business requirements evolved.
+        
+        My primary focus revolved around developing and optimizing complex data processing and transformation pipelines tailored for vast genomic datasets. Leveraging cutting-edge technologies, such as node.js and MongoDB, I architected robust solutions that efficiently managed the enormous volumes of genetic information.
+        
+        In addition to my pipeline-centric responsibilities, I collaborated closely with the scientific community, offering expert support in scripting and optimization using Python. By understanding the nuanced needs of our scientists, I was able to enhance the performance and reliability of their analyses, further cementing CompleteGenomics as a trusted partner in the realm of genetic research.
+    - role: Software Engineer
+      time: Jan 2011 - Sep 2014
+      company: Q-vi Tech GmbH, Berlin, Germany
+      details: |
+        I joined Q-Vi Tech GmbH as a Software Engineer, contributing to the advancement of cutting-edge solutions. My role primarily focused on designing and maintaining sophisticated Java-based model transformation and validation tools, tailored to the intricate requirements of our esteemed client, CARIAD SE (formerly Carmeq GmbH).
+        
+        In addition to my pivotal work with CARIAD SE, I spearheaded the development of Q-Vi Tech's inaugural in-house product, Eventoo—an innovative location-based event and activity suggestion service. During this endeavor, I had the privilege of constructing the iOS application from the ground up, showcasing my proficiency in cross-functional collaboration and mobile application development.
+        
+        My time at Q-Vi Tech GmbH was characterized by a steadfast commitment to precision, innovation, and a collaborative ethos. It was a privilege to contribute to the growth of both our clients and our own product portfolio.
+    - role: Software Engineering Intern
+      time:  May 2010 - Dec 2010
+      company: SAP Labs, Palo Alto, CA, USA
+      details: |
+        Java, iOS
+    - role: Student intern
+      time: Aug 2007 - Jul 2009
+      company: SAP, Berlin, Germany
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor.
+    - role: Student intern
+      time: Mar 2006 - Jul 2009
+      company: DaimlerChrysler, Berlin, Germany
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor.
+
+

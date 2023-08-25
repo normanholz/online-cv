@@ -4,31 +4,31 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+#    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Norman Holz
-    tagline: Full Stack Developer
+    tagline: Software Engineer | Technical Leader
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: norm@nholz.de
+    phone:
+    timezone:
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: #blog.webjeda.com #do not add http://
+    linkedin: normanholz
+    xing: Norman_Holz
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+#    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -42,24 +42,34 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Psychology
           link:
-
-        - item: Snowboarding
+        - item: Coaching
           link:
-
-        - item: Cooking
+        - item: Wakeboarding
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Innovative software engineer with a diverse background spanning over a decade of hands-on experience in the technology sector. 
+      Leveraging a solid foundation in IT-Systems Engineering and a deep-rooted passion for crafting exceptional user experiences, 
+      I have consistently excelled in roles across frontend and backend development, mobile application engineering, and technical leadership.
+  
+      My journey began as a B.Sc. and M.Sc. graduate from the University of Potsdam, where I honed my skills in Systems 
+      Architecture, Human-Computer Interaction, and Internet Technologies. Since then, I have orchestrated groundbreaking 
+      projects, including spearheading the development of a pioneering cross-platform React Native application for 
+      enhancing caregiver proficiency. My expertise in mobile development has been showcased through innovative solutions 
+      like in-app video editing, concurrent video uploads, and seamless payment integrations. As a hands-on engineer, 
+      I have also delved into backend systems, managing complex data processing pipelines and collaborating with scientific 
+      communities to optimize genetic data analysis.
+  
+      Beyond code, I have taken on leadership roles, serving as an Interim CTO for a dynamic startup and leading teams 
+      to enhance digital banking experiences. My passion for technological excellence has been complemented by my 
+      commitment to nurturing development teams, implementing automation strategies, and introducing groundbreaking 
+      features that elevate user engagement. With a track record of driving innovation, fostering collaboration, 
+      and achieving technical milestones, I am poised to deliver impactful solutions in any software engineering endeavor.
+
 education:
     title: Education
     info:
@@ -86,17 +96,16 @@ experiences:
         time: May 2022 - Present
         company: FFW Germany GmbH, Hamburg, Germany
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          I am privileged to lead the Frontend Engineering Teams at FWW. With an unwavering commitment to excellence, my
+          role centers around orchestrating the creation of top-tier products that resonate with our valued customers.
+
+          Within this capacity, I diligently oversee recruitment initiatives, strategically identifying and onboarding 
+          adept individuals who share our passion for innovation. A significant facet of my responsibilities involves 
+          nurturing emerging talents, accomplished through the curation of specialized trainee programs tailored for 
+          aspiring frontend developers transitioning from diverse career trajectories.
+  
+          As I continue to drive FWW's mission, I am dedicated to fostering an environment that nurtures ingenuity, 
+          teamwork, and meticulous craftsmanship, all of which collectively contribute to our ongoing success story.
       - role: Senior Full Stack Engineer
         time: Feb 2021 - Apr 2022
         company: LifeBonus, Hamburg, Germany
@@ -197,7 +206,7 @@ experiences:
           ultimately boosting user engagement.
           
           Innovation extended beyond code as I automated the continuous delivery pipeline of the iOS app using pioneering 
-          tools like BuddyBuild. This proactive approach ensured a rapid and reliable distribution of updates to our valued customers, 
+          tools like BuddyBuild. This proactive approach ensured a rapid and reliable distribution of updates to our valued customers,
           underscoring our commitment to excellence.
           
           Throughout my assignment, I steadfastly maintained a dual focus on propelling the app with cutting-edge features 
@@ -208,166 +217,193 @@ experiences:
         time: Oct 2014 - Jan 2016
         company: Complete Genomics Inc., Mountain View, CA, USA
         details: |
-          During my tenure as a Staff Software Engineer at CompleteGenomics, a distinguished biotech company specializing in Genome Sequencing, I played a pivotal role in driving innovation and efficiency in the field of consumer genetic data analysis.
+          During my tenure as a Staff Software Engineer at CompleteGenomics, a distinguished biotech company 
+          specializing in Genome Sequencing, I played a pivotal role in driving innovation and efficiency in the field 
+          of consumer genetic data analysis.
           
-          Originally brought on board as an iOS Developer for the self-service genome analysis product, I embraced versatility and transitioned seamlessly into a backend developer role as business requirements evolved.
+          Originally brought on board as an iOS Developer for the self-service genome analysis product, I embraced 
+          versatility and transitioned seamlessly into a backend developer role as business requirements evolved.
           
-          My primary focus revolved around developing and optimizing complex data processing and transformation pipelines tailored for vast genomic datasets. Leveraging cutting-edge technologies, such as node.js and MongoDB, I architected robust solutions that efficiently managed the enormous volumes of genetic information.
+          My primary focus revolved around developing and optimizing complex data processing and transformation 
+          pipelines tailored for vast genomic datasets. Leveraging cutting-edge technologies, such as node.js and 
+          MongoDB, I architected robust solutions that efficiently managed the enormous volumes of genetic information.
           
-          In addition to my pipeline-centric responsibilities, I collaborated closely with the scientific community, offering expert support in scripting and optimization using Python. By understanding the nuanced needs of our scientists, I was able to enhance the performance and reliability of their analyses, further cementing CompleteGenomics as a trusted partner in the realm of genetic research.
-      - role: Developer and Consultant
+          In addition to my pipeline-centric responsibilities, I collaborated closely with the scientific community, 
+          offering expert support in scripting and optimization using Python. By understanding the nuanced needs of our 
+          scientists, I was able to enhance the performance and reliability of their analyses, further cementing 
+          CompleteGenomics as a trusted partner in the realm of genetic research.
+      - role: Software Engineer
         time: Jan 2011 - Sep 2014
         company: Q-vi Tech GmbH, Berlin, Germany
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor.
+        details: |           
+          I joined Q-Vi Tech GmbH as a Software Engineer, contributing to the advancement of cutting-edge solutions. 
+          My role primarily focused on designing and maintaining sophisticated Java-based model transformation and 
+          validation tools, tailored to the intricate requirements of our esteemed client, CARIAD SE (formerly Carmeq GmbH).
+
+          In addition to my pivotal work with CARIAD SE, I spearheaded the development of Q-Vi Tech's inaugural in-house 
+          product, Eventoo—an innovative location-based event and activity suggestion service. During this endeavor, 
+          I had the privilege of constructing the iOS application from the ground up, showcasing my proficiency in 
+          cross-functional collaboration and mobile application development.
+
+          My time at Q-Vi Tech GmbH was characterized by a steadfast commitment to precision, innovation, and a 
+          collaborative ethos. It was a privilege to contribute to the growth of both our clients and 
+          our own product portfolio.
       - role: Software Engineering Intern
         time:  May 2010 - Dec 2010
         company: SAP Labs, Palo Alto, CA, USA
         details: |
-          Java, iOS
+          During my internship at SAP Labs, I commenced by contributing to the development of a Java-based prototype for 
+          social media sentiment analysis, substantiating its feasibility. Transitioning from this, I transitioned into 
+          the Office of the CTO's software engineering unit, driven by my proficiencies and passion 
+          for iOS Development. Here, I played an integral role in crafting iOS prototypes, including a pioneering 
+          self-service app tailored for SAP's software sales consultants.
       - role: Student intern
         time: Aug 2007 - Jul 2009
         company: SAP, Berlin, Germany
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor.
+          As a working student at SAP Berlin, I took part in the development of a static software architecture analysis 
+          tool for SAP Products. Leveraging my proficiency in Java, XML, and XSLT, I contributed to the creation of a 
+          sophisticated software solution that efficiently generated comprehensive architecture reports. 
+          These reports played a crucial role in optimizing SAP's product offerings by minimizing shipping sizes and 
+          unraveling complex dependency graphs. My work directly contributed to enhancing product efficiency and overall 
+          performance, showcasing my dedication to delivering impactful solutions in a collaborative corporate environment.
       - role: Student intern
         time: Mar 2006 - Jul 2009
         company: DaimlerChrysler, Berlin, Germany
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor.
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          During my internship at DaimlerChrysler, I successfully developed a Java-based bridge to seamlessly connect 
+          diverse C++ libraries with Java programs. This experience enabled me to enhance my skills in software 
+          integration and cross-language compatibility while contributing to the optimization of inter-library communication.
+#certifications:
+#      title: Certifications
+#      list:
+#        - name: Train the Trainer
+#          start: 2013
+#          end: 2014
+#          organization: Ineko Cologne
+#          credentialid:
+#          credentialurl: ineko-cologne.com/
+#          credentialname: Certified Trainer
+#          details: |
+#            Details about cert. Lorem ipsum dolor sit amet, consectetur
+#            adipiscing elit.
+#            Nullam eget orci purus. Nullam ultrices neque nibh.
+#            Aenean fermentum, felis vulputate suscipit accumsan,
+#            sem enim bibendum augue, sed convallis arcu lacus at dui.
+#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#            Praesent venenatis erat non augue suscipit consectetur.
+#
+#            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#            justo diam viverra velit, sed rhoncus leo leo eu justo.
+#            Suspendisse placerat risus ante, sed porta nisi blandit at.
+#        - name: Git learning
+#          start: 2019
+#          end:
+#          organization: Microsoft
+#          credentialid: 111-222
+#          credentialurl: www.github.com
+#          credentialname: Github
+#          details: |
+#            Older certification. Lorem ipsum dolor sit amet, consectetur
+#            adipiscing elit.
+#            Nullam eget orci purus. Nullam ultrices neque nibh.
+#            Aenean fermentum, felis vulputate suscipit accumsan,
+#            sem enim bibendum augue, sed convallis arcu lacus at dui.
+#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#            Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+#skills:
+#    title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
+#
+#      - name: Javascript & jQuery
+#        level: 98%
+#
+#      - name: Angular
+#        level: 98%
+#
+#      - name: HTML5 & CSS
+#        level: 95%
+#
+#      - name: Ruby on Rails
+#        level: 85%
+#
+#      - name: Sketch & Photoshop
+#        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
