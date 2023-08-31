@@ -161,14 +161,14 @@ experiences:
       time: Oct 2014 - Jan 2016
       company: Complete Genomics Inc., Mountain View, CA, USA
       details: |
-        Contributed to the field of genetic data analysis. Responsibilities included optimizing data processing 
-        pipelines and assisting the scientific community with data analysis.
+        Contributed to the field of genetic data analysis. Responsibilities included building and optimizing large data 
+        processing pipelines and assisting the scientific community with data analysis.
     - role: Software Engineer
       time: Jan 2011 - Sep 2014
       company: Q-vi Tech GmbH, Berlin, Germany
       details: |
-        Developed Java-based model transformation tools for CARIAD SE and led the creation of Eventoo, an location based 
-        event suggestion App.
+        Developed Java-based model transformation, validation, and documentation tools for CARIAD SE and led the creation of Eventoo, a location based 
+        event suggestion App for iOS.
     - role: Software Engineering Intern
       time: May 2010 - Dec 2010
       company: SAP Labs, Palo Alto, CA, USA
