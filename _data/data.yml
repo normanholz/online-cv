@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Norman Holz
-    tagline: Software Engineer | Technical Leader
+    tagline: Full Stack Software Engineer | Technical Leader
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,6 +45,12 @@ sidebar:
         - item: Psychology
           link:
         - item: Coaching
+          link:
+        - item: Software Engineering
+          link:
+        - item: Software Architecture
+          link:
+        - item: AI Assisted Software Development
           link:
         - item: Wakeboarding
           link:
@@ -95,7 +101,7 @@ education:
   title: Education
   info:
     - degree: B.Sc. Psychology
-      university: Fernuniversität Hagen
+      university: FernUniversität in Hagen
       time: 2018 - 2022
       details: |
         Specialization in Work and Organizational Psychology. Bachelor's Thesis on Influencer Entrepreneurship and the Role of Power Motive.
