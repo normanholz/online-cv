@@ -61,10 +61,10 @@ career-profile:
       I am a Software engineer with over a decade of experience in the technology sector, combining expertise in IT-Systems 
       Engineering and Psychology. 
       
-      With a foundational education in Software Engineering, I've contributed to diverse projects, including the 
-      development of cross-platform applications and backend data management.
+      With a foundational education in Software Engineering, I've contributed to diverse projects and clients' success stories, including the 
+      development of multiple native and cross-platform mobile applications in various industries, such as banking, social media and health.
       
-      My leadership roles have included serving as an Interim CTO and building development teams in various 
+      My leadership roles have included serving as an Interim CTO and building multiple proficient development teams. 
       I am now leading frontend engineers in their daily work to build the best products for our customers.
 
 #      Innovative software engineer with a diverse background spanning over a decade of hands-on experience in the technology sector.
@@ -145,7 +145,7 @@ experiences:
         Collaborated on the development of a credit card self-service app using React Native. 
         Achievements include integrating mobile payment solutions, like Apple Pay and onboarding and maturing a 
         proficient in-house development team.
-    - role: Interim Chief Technology Officer
+    - role: Interim Chief Technology Officer (Freelance)
       time: May 2016 - Dec 2018
       company: Hamburg Startup, Hamburg, Germany
       details: |
@@ -251,17 +251,41 @@ experiences:
 #      details: |
 #        Developed a bridge in Java to integrate C++ libraries with Java programs, enhancing cross-language compatibility and library communication.
 
-#certifications:
-#      title: Certifications
-#      list:
-#        - name: Train the Trainer
-#          start: 2013
-#          end: 2014
-#          organization: Ineko Cologne
-#          credentialid:
-#          credentialurl: ineko-cologne.com/
-#          credentialname: Certified Trainer
-#          details: |
+certifications:
+      title: Certifications
+      list:
+        - name: AWS Certified Cloud Practitioner
+          start: 2023
+          end:
+          organization: Amazon Web Services Training and Certification
+          credentialid:
+          credentialurl: https://www.credly.com/badges/09ead7fa-7286-47ad-bd68-ce759322ad77/public_url
+          credentialname: Certification
+          details: |
+        - name: "MITx 15.390.1x, Entrepreneurship 101: Who is your customer?"
+          start: 2015
+          end:
+          organization: Edx
+          credentialid: # 65d9f87b54f8420f9ec5f7b0a5a26c77
+          credentialurl: verify.edx.org/cert/65d9f87b54f8420f9ec5f7b0a5a26c77
+          credentialname: edX Verified Certificate of Completion
+          details: |
+#            Older certification. Lorem ipsum dolor sit amet, consectetur
+#            adipiscing elit.
+#            Nullam eget orci purus. Nullam ultrices neque nibh.
+#            Aenean fermentum, felis vulputate suscipit accumsan,
+#            sem enim bibendum augue, sed convallis arcu lacus at dui.
+#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#            Praesent venenatis erat non augue suscipit consectetur.
+        - name: Train the Trainer
+          start: 2013
+          end: 2014
+          organization: Ineko Cologne
+          credentialid:
+          credentialurl: ineko-cologne.com/
+          credentialname: Certified Trainer Certification
+          details: |
 #            Details about cert. Lorem ipsum dolor sit amet, consectetur
 #            adipiscing elit.
 #            Nullam eget orci purus. Nullam ultrices neque nibh.
@@ -275,22 +299,6 @@ experiences:
 #            fringilla vel. Ut euismod, sem sed vulputate venenatis,
 #            justo diam viverra velit, sed rhoncus leo leo eu justo.
 #            Suspendisse placerat risus ante, sed porta nisi blandit at.
-#        - name: Git learning
-#          start: 2019
-#          end:
-#          organization: Microsoft
-#          credentialid: 111-222
-#          credentialurl: www.github.com
-#          credentialname: Github
-#          details: |
-#            Older certification. Lorem ipsum dolor sit amet, consectetur
-#            adipiscing elit.
-#            Nullam eget orci purus. Nullam ultrices neque nibh.
-#            Aenean fermentum, felis vulputate suscipit accumsan,
-#            sem enim bibendum augue, sed convallis arcu lacus at dui.
-#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#            Praesent venenatis erat non augue suscipit consectetur.
 
 #projects:
 #    title: Projects
