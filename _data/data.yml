@@ -59,9 +59,12 @@ career-profile:
     title: Career Profile
     summary: |
       I am a Software engineer with over a decade of experience in the technology sector, combining expertise in IT-Systems 
-      Engineering and Psychology. With a foundational education in Software Engineering from Hasso-Plattner Institute at the University of Potsdam,
-      I've contributed to diverse projects, including the development of cross-platform applications and backend data management.
-      My leadership roles have included serving as an Interim CTO, building development teams in the digital banking domain.
+      Engineering and Psychology. 
+      
+      With a foundational education in Software Engineering, I've contributed to diverse projects, including the 
+      development of cross-platform applications and backend data management.
+      
+      My leadership roles have included serving as an Interim CTO and building development teams in various 
       I am now leading frontend engineers in their daily work to build the best products for our customers.
 
 #      Innovative software engineer with a diverse background spanning over a decade of hands-on experience in the technology sector.
@@ -102,16 +105,19 @@ education:
   info:
     - degree: B.Sc. Psychology
       university: FernUniversität in Hagen
+      link: https://www.fernuni-hagen.de/psychologie/
       time: 2018 - 2022
       details: |
         Specialization in Work and Organizational Psychology. Bachelor's Thesis on Influencer Entrepreneurship and the Role of Power Motive.
     - degree: M.Sc. IT-Systems Engineering
-      university: University of Potsdam / Hasso Plattner Institute
+      university: HPI | University of Potsdam
+      link: https://hpi.de/studium/vor-dem-studium/studienangebote/master/it-systems-engineering.html
       time: 2007 - 2010
       details: |
         Focused on Systems Architecture, Human-Computer Interaction, and Computer Graphics. Master's Thesis on Out-of-Core Rendering of Remote 3D Virtual Environments on Mobile Devices.
     - degree: B.Sc. IT-Systems Engineering
-      university: University of Potsdam / Hasso Plattner Institute
+      university: HPI | University of Potsdam
+      link: https://hpi.de/studium/vor-dem-studium/studienangebote/bachelor.html
       time: 2005 - 2007
       details: |
         Concentrated on Internet Technologies and Human-Computer Interfaces. Bachelor's Project on Design and Implementation of an Online Portal for Multimedia Books.                
