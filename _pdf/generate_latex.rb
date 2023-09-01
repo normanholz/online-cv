@@ -16,9 +16,8 @@ def generate_latex(yaml_file, template_file, output_file)
     binding_obj.local_variable_set(:email, sidebar_data['email'])
     binding_obj.local_variable_set(:avatar, sidebar_data['avatar'])
 
-    cv_data = sidebar_data['cv']
-    binding_obj.local_variable_set(:phone, cv_data['phone'])
-    binding_obj.local_variable_set(:address, cv_data['address'])
+    # Summary
+    binding_obj.local_variable_set(:career_summary, yaml_data['career-profile']['summary'])
 
     # Experience
     experiences_data = yaml_data['experiences']
