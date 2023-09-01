@@ -1,10 +1,10 @@
 #!/bin/bash
 
-cd pdf || exit
+cd _pdf || exit
 
 ruby generate_latex.rb
 
-# Remove existing output.pdf file and compile LaTeX to generate new output.pdf
+# Remove existing output._pdf file and compile LaTeX to generate new output._pdf
 rm -f normanholz-cv.pdf
 
 
@@ -15,7 +15,7 @@ done
 
 
 
-mv ./output.pdf ./normanholz-cv.pdf
+mv ./output.pdf ../assets/pdf/normanholz-cv.pdf
 
 # Remove any remaining files with the name "output."
 rm -f ./output.*
