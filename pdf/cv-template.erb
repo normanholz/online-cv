@@ -1,0 +1,52 @@
+\documentclass[a4, 11pt]{article}
+
+% Choose theme, e.g. black, RedViolet, ForestGreen, MidnightBlue
+\def\theme{black}
+
+\usepackage{simplecv}
+
+\begin{document}
+
+\headingphoto{<%= name %> }{
+    E-Mail: \email{<%= email %>} \\
+    Phone:  <%= phone %> \\
+    Address: <%= address %> \\
+}{../assets/images/<%= avatar %>}
+
+\section{<%= experiences_title %>}
+
+\outerlist{
+<% experiences_data.each do |info| %>
+\entrybig
+	{\textbf{<%= info['role'] %>}}{<%= info['location'] %>}
+	{<%= info['company'] %>}{<%= info['time'] %>}
+    \innerlist{
+	    \entry{<%= info['details'] %>}
+	    \entry{<%= info['skills'] %>}
+    }
+<% end %>
+}
+
+% -----------
+
+\section{<%= education_title %>}
+\outerlist{
+<% education_data.each do |info| %>
+    \entrybig
+    {\textbf{<%= info['degree'] %>}}{<%= info['location'] %>}
+    {<%= info['university'] %>}{<%= info['time'] %>}
+    \innerlist{
+        \entry{<%= info['details'] %>}
+    }
+<% end %>
+}
+
+\section{Languages}
+
+\denseouterlist{
+    <% languages_data.each do |info| %>
+        \entry{\textbf{<%= info['idiom'] %>: } <%= info['level'] %>}
+    <% end %>
+}
+
+\end{document}

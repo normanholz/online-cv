@@ -20,7 +20,6 @@ def generate_latex(yaml_file, template_file, output_file)
     binding_obj.local_variable_set(:phone, cv_data['phone'])
     binding_obj.local_variable_set(:address, cv_data['address'])
 
-
     # Experience
     experiences_data = yaml_data['experiences']
     binding_obj.local_variable_set(:experiences_title, experiences_data['title'])
@@ -42,4 +41,4 @@ def generate_latex(yaml_file, template_file, output_file)
     File.write(output_file, latex_content)
 end
 
-generate_latex('./_data/data.yml', './pdf/cv-template.erb', './pdf/output.tex')
+generate_latex('../_data/data.yml', 'cv-template.erb', 'output.tex')
