@@ -53,9 +53,13 @@ sidebar:
           link:
         - item: Software Architecture
           link:
+        - item: Data Science
+          link:
         - item: AI Assisted Software Development
           link:
         - item: Wakeboarding
+          link:
+        - item: Snowboarding
           link:
 
 career-profile:
