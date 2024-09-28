@@ -40,22 +40,20 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Fluent (C2 proficiency)
+          level: C2 proficiency
 
     interests:
       title: Interests
       info:
-        - item: Psychology
-          link:
-        - item: Coaching
-          link:
         - item: Software Engineering
           link:
         - item: Software Architecture
           link:
         - item: Data Science
           link:
-        - item: AI Assisted Software Development
+        - item: AI Expedited Software Development
+          link:
+        - item: Psychology
           link:
         - item: Wakeboarding
           link:
@@ -134,7 +132,11 @@ experiences:
     - role: Head of Frontend Engineering
       time: May 2022 - Present
       company: JAKALA Germany GmbH, Hamburg, Germany
-      skills: Management · Front-End Development · Technology Leadership · Software Engineering
+#      skills:
+#        - Management
+#        - Front-End Development
+#        - Technology Leadership
+#        - Software Engineering
       details: |
         Leading the Frontend Engineering Teams at JAKALA Germany, I focus on helping my teams (~50 FTE) to produce high-quality products. 
         I manage recruitment, advice on technology decisions for pitches and estimates, design trainee programs for 
@@ -142,14 +144,21 @@ experiences:
     - role: Senior Full Stack Engineer
       time: Feb 2021 - Apr 2022
       company: LifeBonus, Hamburg, Germany
-      skills: Cloud Computing · React Native · TypeScript · Amazon Web Services (AWS)
+      skills:
+        - React Native
+        - TypeScript
+        - Amazon Web Services (AWS)
       details: |
         Contributed to a React Native application for caregivers. Introduced a robust video uploading feature for the AI 
         department and streamlined user engagement strategies.
     - role: Senior Mobile Application Engineer (Freelance)
       time: Apr 2018 - Jul 2020
       company: Hanseatic Bank, Hamburg, Germany
-      skills: React Native · TypeScript · Apple Pay · Google Pay · Mobile Application Development
+      skills:
+        - React Native
+        - TypeScript
+        - Apple Pay
+        - Google Pay
       details: |
         Collaborated on the development of a credit card self-service app using React Native. 
         Achievements include integrating mobile payment solutions, like Apple Pay and onboarding and maturing a 
@@ -157,49 +166,71 @@ experiences:
     - role: Interim Chief Technology Officer (Freelance)
       time: May 2016 - Dec 2018
       company: Hamburg Startups, Hamburg, Germany
-      skills: Backbone.js · Technology Leadership · Linux System Administration · JavaScript · Python
+      skills:
+        - Backbone.js
+        - Unix
+        - JavaScript
+        - Python
       details: |
         Oversaw software development and infrastructure maintenance. Introduced a multi-tenancy framework and advised on
         product strategy shifts.
     - role: Senior iOS Engineer (Freelance)
       time: Apr 2016 - Apr 2018
       company: Group Story Social Media Platform, Hamburg, Germany
-      skills: Swift · Video Processing · Mobile Application Development · Objective-C · iOS Development
+      skills:
+        - Swift
+        - Objective-C
       details: |
         Collaborated on refining a mobile application. Highlights include implementing an in-app video editing solution 
         and optimizing video upload functionalities.
     - role: Staff Software Engineer
       time: Oct 2014 - Jan 2016
       company: Complete Genomics Inc., Mountain View, CA, USA
-      skills: Cloud Computing · Big Data · JavaScript · Node.js · MongoDB · Python
+      skills:
+        - JavaScript
+        - Node.js
+        - MongoDB
+        - Python
       details: |
         Contributed to the field of genetic data analysis. Responsibilities included building and optimizing large data 
         processing pipelines and assisting the scientific community with data analysis.
     - role: Software Engineer
       time: Jan 2011 - Sep 2014
       company: Q-vi Tech GmbH, Berlin, Germany
-      skills: AUTOSAR · Java · Objective-C · iOS Development
+      skills:
+        - AUTOSAR
+        - Java
+        - Objective-C
       details: |
         Developed Java-based model transformation, validation, and documentation tools for CARIAD SE and led the creation of Eventoo, a location based 
         event suggestion App for iOS.
     - role: Software Engineering Intern
       time: May 2010 - Dec 2010
       company: SAP Labs, Palo Alto, CA, USA
-      skills: Java · Objective-C · iOS Development
+      skills:
+        - Java
+        - Objective-C
       details: |
         Contributed to a Java-based prototype for social media sentiment analysis and developed iOS prototypes for SAP's 
         software sales consultants within the Office of the CTO.
     - role: Student intern
       time: Aug 2007 - Jul 2009
       company: SAP, Berlin, Germany
-      skills: XML · XML Schema · XSLT · Java
+      skills:
+        - XML
+        - XML Schema
+        - XSLT
+        - Java
       details: |
         Participated in developing a software architecture analysis tool, optimizing SAP's product 
         offerings by generating detailed architecture reports using Java, XML, and XSLT.
     - role: Student intern
       time: Mar 2006 - Jul 2009
       company: DaimlerChrysler, Berlin, Germany
-      skills: Java, C++, JNI
+      skills:
+        - Java
+        - C++
+        - JNI
       details: |
         Developed a bridge in Java to integrate C++ libraries with Java programs, 
         enhancing cross-language compatibility and library communication.

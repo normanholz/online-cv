@@ -261,6 +261,18 @@ p {
   }
 }
 
+.skill {
+  display: inline-block;
+  //background-color: $text-grey;
+  color: $text-color;
+  border: 1px solid $text-color; /* 1px solid border in text color */
+  padding: 5px 10px; /* Padding around text */
+  margin: 2px; /* Margin to space out badges */
+  border-radius: 12px; /* Rounded corners */
+  font-size: 0.875rem; /* Slightly smaller font size */
+  text-align: center;
+}
+
 .skillset {
   .item {
     margin-bottom: 15px;
